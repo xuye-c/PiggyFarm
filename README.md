@@ -1,1 +1,3 @@
 # PiggyFarm
+Piggy Farm is a fun and relaxing casual game inspired by simple yet engaging gameplay mechanics. In this game, an adorable little black pig is busy catching falling eggs, preventing them from hitting the ground and breaking.
+I wanted to create a game that is easy to pick up and play anytime, anywhere, serving as a stress-reliever for players. Additionally, I hope this game carries a special meaning for couples, as "piggy" is often used as a term of endearment between lovers. Through this game, I want to offer a fun and interactive experience for couples, where the pig protecting the falling eggs symbolizes how lovers care for and support each other.
